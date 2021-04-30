@@ -24,7 +24,7 @@ I am a Web Developer, CyberSecurity Researcher and Bug Bounty Hunter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=therceman&repo=copper&show_owner=true)](https://github.com/therceman/copper)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=therceman.therceman)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rceman.rceman)
 
 <!--
 **therceman/therceman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
