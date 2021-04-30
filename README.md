@@ -2,8 +2,9 @@
 
 -------------
 
-Warning! this is my old account...
-Please navigate to my new account: https://github.com/therceman
+Warning! This is my old account.
+
+Please navigate to my new account here: https://github.com/therceman
 
 Thank You!
 
