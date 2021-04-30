@@ -32,4 +32,4 @@ I am a Web Developer, CyberSecurity Researcher and Bug Bounty Hunter
 
 - 📫 How to reach me: 
 
-DM via Twitter @therceman or Email via therceman@gmail.com
+DM via Twitter [@therceman](https://twitter.com/therceman) or Email via [therceman@gmail.com](emailto://therceman@gmail.com)
